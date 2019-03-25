@@ -1,0 +1,4 @@
+*.db
+*Solutions*
+*.idea
+*.ipynb_checkpoints
